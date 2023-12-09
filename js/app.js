@@ -107,13 +107,13 @@ $(function () {
   var categories = (window.cats = new CategoriesCollection([
     {
       name: "Mechanics",
-      icon: "radar/radar_acsr_race_hotring.png",
+      icon: "radar/radar_mechanic.png",
       type: "All Maps",
       enabled: true,
     },
     {
       name: "Gun Shops",
-      icon: "General/wall-breach.png",
+      icon: "radar/radar_ammunation.png",
       type: "All Maps",
       enabled: true,
     },
@@ -125,7 +125,7 @@ $(function () {
     },
     {
       name: "Weed Shops",
-      icon: "radar/radar_acsr_race_hotring.png",
+      icon: "radar/radar_weedshop.png",
       type: "All Maps",
       enabled: true,
     },
@@ -137,13 +137,13 @@ $(function () {
     },
     {
       name: "Arenas",
-      icon: "radar/radar_heist.png",
+      icon: "radar/radar_arenas.png",
       type: "All Maps",
       enabled: true,
     },
     {
       name: "Others",
-      icon: "radar/radar_heist.png",
+      icon: "radar/radar_office_for_sale.png",
       type: "All Maps",
       enabled: true,
     },

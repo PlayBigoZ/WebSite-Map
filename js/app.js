@@ -130,7 +130,19 @@ $(function () {
       enabled: true,
     },
     {
+      name: "Shops",
+      icon: "radar/radar_heist.png",
+      type: "All Maps",
+      enabled: true,
+    },
+    {
       name: "Arenas",
+      icon: "radar/radar_heist.png",
+      type: "All Maps",
+      enabled: true,
+    },
+    {
+      name: "Others",
       icon: "radar/radar_heist.png",
       type: "All Maps",
       enabled: true,

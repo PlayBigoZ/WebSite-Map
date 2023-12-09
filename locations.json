@@ -45,6 +45,26 @@
   },
   {
     "type": "Mechanics",
+    "title": "CarCrew Sandy Shores",
+    "notes": "The CarCrew map is a modern and clean workshop made to improve the rp of the most car and tuning enthusiasts.",
+    "wiki_link": "https://youtu.be/J7HSvH45MNs",
+    "order": 0,
+    "strokecolor": "FF0000",
+    "fillcolor": "FF0000",
+    "latlngarray": [
+      {"lat": 38.098, "lng": 33.237},
+			{"lat": 38.563, "lng": 34.269},
+			{"lat": 38.227, "lng": 34.544},
+			{"lat": 37.751, "lng": 33.467}
+    ],
+    "video": {
+      "yt_id": "J7HSvH45MNs",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+  },
+  {
+    "type": "Mechanics",
     "title": "Mechanic",
     "notes": "The Mechanic map is a more hidden workshop, for those who don't want to attract too much attention.",
     "wiki_link": "https://youtu.be/560ocWI_kGY",
@@ -85,6 +105,150 @@
     ],
     "video": {
       "yt_id": "V07xnBPa0lA",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+  },
+  {
+    "type": "Gun Shops",
+    "title": "Ammunation",
+    "notes": "The Ammunation map is an Asian-style gun store, including a shooting range.",
+    "wiki_link": "https://youtu.be/k8Y7nNQQIiI",
+    "order": 0,
+    "strokecolor": "0028FF",
+    "fillcolor": "0028FF",
+    "latlngarray": [
+      {"lat": -69.854, "lng": -33.647},
+			{"lat": -69.858, "lng": -33.240},
+			{"lat": -69.618, "lng": -32.427},
+			{"lat": -69.449, "lng": -32.856},
+			{"lat": -69.660, "lng": -33.449},
+			{"lat": -69.445, "lng": -33.866},
+			{"lat": -69.518, "lng": -34.229}
+    ],
+    "video": {
+      "yt_id": "k8Y7nNQQIiI",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+  },
+  {
+    "type": "Restaurants",
+    "title": "Ohana Club",
+    "notes": "Ohana Club is a sea view venue perfect for enjoying life while sipping a nice cocktail.",
+    "wiki_link": "https://youtu.be/uDSB2lG5uT0",
+    "order": 0,
+    "strokecolor": "FFF900",
+    "fillcolor": "FFF900",
+    "latlngarray": [
+      {"lat": -72.026, "lng": -57.200},
+			{"lat": -72.245, "lng": -58.475},
+			{"lat": -72.441, "lng": -58.288},
+			{"lat": -72.583, "lng": -59.178},
+			{"lat": -71.992, "lng": -60.353},
+			{"lat": -71.852, "lng": -59.255},
+			{"lat": -72.029, "lng": -58.837},
+			{"lat": -71.838, "lng": -57.486}
+    ],
+    "video": {
+      "yt_id": "uDSB2lG5uT0",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+  },
+  {
+    "type": "Restaurants",
+    "title": "Pacific Bar",
+    "notes": "The PacificBar is a sea view venue perfect for enjoying life by the pool.",
+    "wiki_link": "https://youtu.be/DKJV7oIsMcU",
+    "order": 0,
+    "strokecolor": "FFF900",
+    "fillcolor": "FFF900",
+    "latlngarray": [
+      {"lat": -50.974, "lng": -103.419},
+			{"lat": -51.510, "lng": -102.496},
+			{"lat": -52.135, "lng": -100.474},
+			{"lat": -52.471, "lng": -100.650},
+			{"lat": -52.189, "lng": -101.551},
+			{"lat": -52.404, "lng": -101.969},
+			{"lat": -52.644, "lng": -102.232},
+			{"lat": -52.671, "lng": -102.694},
+			{"lat": -52.363, "lng": -103.529},
+			{"lat": -52.081, "lng": -103.594},
+			{"lat": -51.742, "lng": -103.221},
+			{"lat": -51.359, "lng": -103.858}
+    ],
+    "video": {
+      "yt_id": "DKJV7oIsMcU",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+  },
+  {
+    "type": "Weed Shops",
+    "title": "Puff Puff Pass",
+    "notes": "The Puff Puff Pass is the ideal map for those who want to manage a place that is different from the usual.",
+    "wiki_link": "https://youtu.be/mf4MBovGJKo",
+    "order": 0,
+    "strokecolor": "0EFF00",
+    "fillcolor": "0EFF00",
+    "latlngarray": [
+      {"lat": -60.242, "lng": -59.295},
+			{"lat": -60.078, "lng": -59.734},
+			{"lat": -60.139, "lng": -59.800},
+			{"lat": -60.073, "lng": -59.987},
+			{"lat": -59.908, "lng": -59.720},
+			{"lat": -59.803, "lng": -60.072},
+			{"lat": -60.160, "lng": -60.424},
+			{"lat": -60.394, "lng": -59.885},
+			{"lat": -60.394, "lng": -59.611}
+    ],
+    "video": {
+      "yt_id": "mf4MBovGJKo",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+  },
+  {
+    "type": "Shops",
+    "title": "Digital Den",
+    "notes": "The Digital Den is a map designed for all servers that need a place to sell electronic items, including a map of a huge warehouse on the back.",
+    "wiki_link": "https://youtu.be/3h-s8DKJWqQ",
+    "order": 0,
+    "strokecolor": "8715F2",
+    "fillcolor": "8715F2",
+    "latlngarray": [
+      {"lat": -65.890, "lng": -33.895},
+			{"lat": -65.496, "lng": -33.950},
+			{"lat": -65.890, "lng": -34.247},
+			{"lat": -65.988, "lng": -34.247},
+			{"lat": -65.988, "lng": -34.499},
+			{"lat": -65.750, "lng": -34.532},
+			{"lat": -65.759, "lng": -35.181},
+			{"lat": -65.501, "lng": -35.181}
+    ],
+    "video": {
+      "yt_id": "3h-s8DKJWqQ",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+  },
+  {
+    "type": "Others",
+    "title": "Hidden House",
+    "notes": "The Hidden House is a map for those who want to stay away from everyone and live their life in nature.",
+    "wiki_link": "https://youtu.be/K0o1RDRlRmI",
+    "order": 0,
+    "strokecolor": "4B4B4B",
+    "fillcolor": "4B4B4B",
+    "latlngarray": [
+      {"lat": 57.132, "lng": -36.649},
+			{"lat": 56.989, "lng": -36.089},
+			{"lat": 57.245, "lng": -35.671},
+			{"lat": 57.477, "lng": -36.331}
+    ],
+    "video": {
+      "yt_id": "K0o1RDRlRmI",
       "yt_user_display": "\u30a6\u30b5\u30ae",
       "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
     }

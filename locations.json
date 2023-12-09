@@ -1,22 +1,26 @@
 [
   {
     "type": "Mechanics",
-    "title": "Pisello",
-    "notes": "te lo ciuccio tutto",
-    "wiki_link": "https://www.youtube.com/watch?v=mf4MBovGJKo",
+    "title": "BayShore",
+    "notes": "The BayShore map is a recommended workshop for all street racers.",
+    "wiki_link": "https://youtu.be/jNiS53aIJt0",
     "order": 0,
     "strokecolor": "FF0000",
     "fillcolor": "FF0000",
     "latlngarray": [
-      { "lat": -50.195, "lng": -3.619 },
-      { "lat": -51.031, "lng": -0.301 },
-      { "lat": -48.709, "lng": 1.061 },
-      { "lat": -47.788, "lng": -2.652 }
+      {"lat": -74.452, "lng": -33.876},
+			{"lat": -74.514, "lng": -33.755},
+			{"lat": -74.449, "lng": -33.359},
+			{"lat": -74.599, "lng": -32.964},
+			{"lat": -74.399, "lng": -31.986},
+			{"lat": -74.526, "lng": -31.294},
+			{"lat": -74.390, "lng": -31.008},
+			{"lat": -74.143, "lng": -32.293}
     ],
     "video": {
       "yt_id": "5obSMupIzcw",
       "yt_user_display": "\u30a6\u30b5\u30ae",
-      "yt_user_link": "channel/UCV-EQWD_ukkm7TW6Le0aaew"
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
     }
   }
 ]

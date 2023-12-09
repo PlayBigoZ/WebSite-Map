@@ -64,5 +64,29 @@
       "yt_user_display": "\u30a6\u30b5\u30ae",
       "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
     }
+  },
+  {
+    "type": "Gun Shops",
+    "title": "Run N Gun",
+    "notes": "The Run N Gun map is a modern gun store, complete with shooting range and a bar area. (SCRIPT INSIDE)",
+    "wiki_link": "https://youtu.be/V07xnBPa0lA",
+    "order": 0,
+    "strokecolor": "0028FF",
+    "fillcolor": "0028FF",
+    "latlngarray": [
+      {"lat": -60.546, "lng": 17.671},
+			{"lat": -60.600, "lng": 18.078},
+			{"lat": -60.203, "lng": 18.309},
+			{"lat": -60.291, "lng": 18.979},
+			{"lat": -59.913, "lng": 19.187},
+			{"lat": -59.825, "lng": 18.583},
+			{"lat": -59.995, "lng": 18.462},
+			{"lat": -59.935, "lng": 18.001}
+    ],
+    "video": {
+      "yt_id": "V07xnBPa0lA",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
   }
 ]

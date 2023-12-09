@@ -107,7 +107,7 @@ $(function () {
   var categories = (window.cats = new CategoriesCollection([
     {
       name: "Mechanics",
-      icon: "radar/radar_warehouse.png",
+      icon: "radar/radar_acsr_race_hotring.png",
       type: "All Maps",
       enabled: true,
     },
@@ -119,7 +119,7 @@ $(function () {
     },
     {
       name: "Restaurants",
-      icon: "General/glitches.png",
+      icon: "General/radar_bar.png",
       type: "All Maps",
       enabled: true,
     },

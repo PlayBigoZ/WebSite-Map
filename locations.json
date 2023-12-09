@@ -18,7 +18,49 @@
 			{"lat": -74.143, "lng": -32.293}
     ],
     "video": {
-      "yt_id": "5obSMupIzcw",
+      "yt_id": "jNiS53aIJt0",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+  },
+  {
+    "type": "Mechanics",
+    "title": "CarCrew",
+    "notes": "The CarCrew map is a modern and clean workshop made to improve the rp of the most car and tuning enthusiasts.",
+    "wiki_link": "https://youtu.be/J7HSvH45MNs",
+    "order": 0,
+    "strokecolor": "FF0000",
+    "fillcolor": "FF0000",
+    "latlngarray": [
+      {"lat": -82.359, "lng": 8.845},
+			{"lat": -82.438, "lng": 8.834},
+			{"lat": -82.443, "lng": 10.262},
+			{"lat": -82.359, "lng": 10.240}
+    ],
+    "video": {
+      "yt_id": "J7HSvH45MNs",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+  },
+  {
+    "type": "Mechanics",
+    "title": "Mechanic",
+    "notes": "The Mechanic map is a more hidden workshop, for those who don't want to attract too much attention.",
+    "wiki_link": "https://youtu.be/560ocWI_kGY",
+    "order": 0,
+    "strokecolor": "FF0000",
+    "fillcolor": "FF0000",
+    "latlngarray": [
+      {"lat": -79.495, "lng": 14.023},
+			{"lat": -79.519, "lng": 15.429},
+			{"lat": -79.256, "lng": 15.561},
+			{"lat": -79.241, "lng": 14.660},
+			{"lat": -79.372, "lng": 14.616},
+			{"lat": -79.366, "lng": 14.089}
+    ],
+    "video": {
+      "yt_id": "560ocWI_kGY",
       "yt_user_display": "\u30a6\u30b5\u30ae",
       "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
     }

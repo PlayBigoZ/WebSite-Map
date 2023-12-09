@@ -568,10 +568,10 @@ function printArray() {
     "https://github.com/skyrossm/np-gangmap/issues\n\n" +
     'Right click the map to add points to the region. You may have to toggle regions off to be able to right click on the bottom layer. Fill in the values marked "<edit here>" and title the new issue using the format: "Add <title> region". Copy and paste everything below this. If your browser does not support selecting the text below press F12 to open the developer console and copy it from there. (scroll down)\n\n';
   msg +=
-    '```json\n\t{\n\t\t"type": "Territories",' +
+    '```json\n\t{\n\t\t"type": "Zone",' +
     '\n\t\t"title": "<edit this>",' +
     '\n\t\t"notes": "<edit this>",' +
-    '\n\t\t"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",' +
+    '\n\t\t"wiki_link": "https://www.nonick.it<edit this>",' +
     '\n\t\t"order": 0,' +
     '\n\t\t"strokecolor": "FF0000",' +
     '\n\t\t"fillcolor": "FF0000",' +

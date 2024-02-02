@@ -234,6 +234,28 @@
     }
   },
   {
+    "type": "Shops",
+    "title": "Diamond Dreams",
+    "notes": "The Diamond Dreams is a Jewelry Store located at Grapeseed.",
+    "wiki_link": "https://youtu.be/3h-s8DKJWqQ",
+    "order": 0,
+    "strokecolor": "FFF900",
+    "fillcolor": "FFF900",
+    "latlngarray": [
+      {"lat": 60.938, "lng": 33.831},
+			{"lat": 60.976, "lng": 34.414},
+			{"lat": 61.236, "lng": 34.436},
+			{"lat": 61.268, "lng": 33.821},
+			{"lat": 61.109, "lng": 33.886},
+			{"lat": 61.093, "lng": 33.766}
+    ],
+    "video": {
+      "yt_id": "3h-s8DKJWqQ",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+  },
+  {
     "type": "Others",
     "title": "Hidden House",
     "notes": "The Hidden House is a map for those who want to stay away from everyone and live their life in nature.",

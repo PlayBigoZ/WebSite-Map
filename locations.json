@@ -210,6 +210,26 @@
     }
   },
   {
+		"type": "Tattoo Shop",
+		"title": "Tattoo Shop",
+		"notes": "A Tattoo Shop located at Paleto Bay",
+		"wiki_link": "https://youtu.be/UsiJCaJwzIo",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 76.263, "lng": -20.948},
+			{"lat": 76.339, "lng": -20.585},
+			{"lat": 76.388, "lng": -20.783},
+			{"lat": 76.307, "lng": -21.156}
+		],
+    "video": {
+      "yt_id": "UsiJCaJwzIo",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+	},
+  {
     "type": "Shops",
     "title": "Digital Den",
     "notes": "The Digital Den is a map designed for all servers that need a place to sell electronic items, including a map of a huge warehouse on the back.",
@@ -234,7 +254,7 @@
     }
   },
   {
-    "type": "Shops",
+    "type": "Jewelry Store",
     "title": "Diamond Dreams",
     "notes": "The Diamond Dreams is a Jewelry Store located at Grapeseed.",
     "wiki_link": "https://youtu.be/UsiJCaJwzIo",
@@ -255,6 +275,7 @@
       "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
     }
   },
+  
   {
     "type": "Others",
     "title": "Hidden House",

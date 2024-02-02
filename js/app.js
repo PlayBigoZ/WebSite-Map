@@ -130,7 +130,13 @@ $(function () {
       enabled: true,
     },
     {
-      name: "Shops",
+      name: "Tattoo Shop",
+      icon: "radar/radar_heist.png",
+      type: "All Maps",
+      enabled: true,
+    },
+    {
+      name: "Jewelry Store",
       icon: "radar/radar_heist.png",
       type: "All Maps",
       enabled: true,

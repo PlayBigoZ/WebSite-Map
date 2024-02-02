@@ -215,8 +215,8 @@
 		"notes": "A Tattoo Shop located at Paleto Bay",
 		"wiki_link": "https://youtu.be/UsiJCaJwzIo",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "ff8a00",
+		"fillcolor": "ff8a00",
 		"latlngarray": [
 			{"lat": 76.263, "lng": -20.948},
 			{"lat": 76.339, "lng": -20.585},
@@ -259,8 +259,8 @@
     "notes": "The Diamond Dreams is a Jewelry Store located at Grapeseed.",
     "wiki_link": "https://youtu.be/UsiJCaJwzIo",
     "order": 0,
-    "strokecolor": "FFF900",
-    "fillcolor": "FFF900",
+    "strokecolor": "00d8ff",
+    "fillcolor": "00d8ff",
     "latlngarray": [
       {"lat": 60.938, "lng": 33.831},
 			{"lat": 60.976, "lng": 34.414},

@@ -131,19 +131,25 @@ $(function () {
     },
     {
       name: "Tattoo Shop",
-      icon: "radar/radar_heist.png",
+      icon: "radar/radar_tattoo.png",
       type: "All Maps",
       enabled: true,
     },
     {
       name: "Jewelry Store",
-      icon: "radar/radar_heist.png",
+      icon: "radar/radar_bat_hack_jewel.png",
       type: "All Maps",
       enabled: true,
     },
     {
       name: "Arenas",
       icon: "radar/radar_arenas.png",
+      type: "All Maps",
+      enabled: true,
+    },
+    {
+      name: "Shops",
+      icon: "radar/radar_heist.png",
       type: "All Maps",
       enabled: true,
     },

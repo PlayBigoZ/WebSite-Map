@@ -142,14 +142,14 @@ $(function () {
       enabled: true,
     },
     {
-      name: "Arenas",
-      icon: "radar/radar_arenas.png",
+      name: "Shops",
+      icon: "radar/radar_heist.png",
       type: "All Maps",
       enabled: true,
     },
     {
-      name: "Shops",
-      icon: "radar/radar_heist.png",
+      name: "Arenas",
+      icon: "radar/radar_arenas.png",
       type: "All Maps",
       enabled: true,
     },

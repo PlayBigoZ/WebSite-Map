@@ -210,6 +210,28 @@
     }
   },
   {
+		"type": "Weed Shops",
+		"title": "HighNotes",
+		"notes": "The HighNotes is weedshop map with a rooftop and a recording studio.",
+		"wiki_link": "https://youtu.be/r-5mQ7oWfCo",
+		"order": 0,
+		"strokecolor": "0EFF00",
+		"fillcolor": "0EFF00",
+		"latlngarray": [
+			{"lat": -56.726, "lng": -35.946},
+			{"lat": -55.953, "lng": -36.748},
+			{"lat": -56.119, "lng": -37.275},
+			{"lat": -56.606, "lng": -36.781},
+			{"lat": -56.685, "lng": -37.048},
+			{"lat": -56.914, "lng": -36.774}
+		],
+    "video": {
+      "yt_id": "r-5mQ7oWfCo",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+	},
+  {
 		"type": "Tattoo Shop",
 		"title": "Tattoo Shop",
 		"notes": "A Tattoo Shop located at Paleto Bay",
@@ -275,7 +297,6 @@
       "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
     }
   },
-  
   {
     "type": "Others",
     "title": "Hidden House",

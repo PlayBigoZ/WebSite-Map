@@ -118,7 +118,7 @@ $(function () {
       enabled: true,
     },
     {
-      name: "Restaurants",
+      name: "Clubs",
       icon: "radar/radar_bar.png",
       type: "All Maps",
       enabled: true,
@@ -142,7 +142,7 @@ $(function () {
       enabled: true,
     },
     {
-      name: "Shops",
+      name: "Electronics",
       icon: "radar/radar_heist.png",
       type: "All Maps",
       enabled: true,

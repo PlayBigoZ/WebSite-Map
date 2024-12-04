@@ -133,7 +133,7 @@
     }
   },
   {
-    "type": "Restaurants",
+    "type": "Clubs",
     "title": "Ohana Club",
     "notes": "Ohana Club is a sea view venue perfect for enjoying life while sipping a nice cocktail.",
     "wiki_link": "https://youtu.be/uDSB2lG5uT0",
@@ -157,7 +157,7 @@
     }
   },
   {
-    "type": "Restaurants",
+    "type": "Clubs",
     "title": "Pacific Bar",
     "notes": "The PacificBar is a sea view venue perfect for enjoying life by the pool.",
     "wiki_link": "https://youtu.be/DKJV7oIsMcU",
@@ -250,7 +250,7 @@
     }
 	},
   {
-    "type": "Shops",
+    "type": "Electronics",
     "title": "Digital Den",
     "notes": "The Digital Den is a map designed for all servers that need a place to sell electronic items, including a map of a huge warehouse on the back.",
     "wiki_link": "https://youtu.be/3h-s8DKJWqQ",

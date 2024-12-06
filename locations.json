@@ -250,7 +250,7 @@
     }
 	},
   {
-    "type": "Electronics",
+    "type": "Shops",
     "title": "Digital Den",
     "notes": "The Digital Den is a map designed for all servers that need a place to sell electronic items, including a map of a huge warehouse on the back.",
     "wiki_link": "https://youtu.be/3h-s8DKJWqQ",
@@ -295,6 +295,24 @@
       "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
     }
   },
+  {
+		"type": "Shops",
+		"title": "BikePit",
+		"notes": "BikePit is a Bike and Skateboard shop located in San Andreas Beach.",
+		"wiki_link": "https://youtu.be/",
+		"order": 0,
+		"strokecolor": "FFF900",
+    "fillcolor": "FFF900",
+		"latlngarray": [
+			{"lat": -71.411, "lng": -54.205},
+			{"lat": -71.457, "lng": -54.425},
+			{"lat": -71.523, "lng": -54.458},
+			{"lat": -71.565, "lng": -54.337},
+			{"lat": -71.575, "lng": -54.129},
+			{"lat": -71.523, "lng": -53.920},
+			{"lat": -71.436, "lng": -53.986}
+		]
+	},
   {
     "type": "Others",
     "title": "Hidden House",

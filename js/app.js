@@ -142,7 +142,7 @@ $(function () {
       enabled: true,
     },
     {
-      name: "Electronics",
+      name: "Shops",
       icon: "radar/radar_heist.png",
       type: "All Maps",
       enabled: true,

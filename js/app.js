@@ -136,14 +136,14 @@ $(function () {
       enabled: true,
     },
     {
-      name: "Jewelry Store",
-      icon: "radar/radar_bat_hack_jewel.png",
+      name: "Bike Shop",
+      icon: "radar/radar_heist.png",
       type: "All Maps",
       enabled: true,
     },
     {
-      name: "Shops",
-      icon: "radar/radar_heist.png",
+      name: "Jewelry Store",
+      icon: "radar/radar_bat_hack_jewel.png",
       type: "All Maps",
       enabled: true,
     },

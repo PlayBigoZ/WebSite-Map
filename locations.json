@@ -250,37 +250,13 @@
     }
 	},
   {
-    "type": "Shops",
-    "title": "Digital Den",
-    "notes": "The Digital Den is a map designed for all servers that need a place to sell electronic items, including a map of a huge warehouse on the back.",
-    "wiki_link": "https://youtu.be/3h-s8DKJWqQ",
-    "order": 0,
-    "strokecolor": "FFF900",
-    "fillcolor": "FFF900",
-    "latlngarray": [
-      {"lat": -65.996, "lng": -34.481},
-			{"lat": -65.991, "lng": -34.218},
-			{"lat": -65.893, "lng": -34.218},
-			{"lat": -65.888, "lng": -33.877},
-			{"lat": -65.499, "lng": -33.910},
-			{"lat": -65.499, "lng": -35.162},
-			{"lat": -65.753, "lng": -35.162},
-			{"lat": -65.748, "lng": -34.525}
-    ],
-    "video": {
-      "yt_id": "3h-s8DKJWqQ",
-      "yt_user_display": "\u30a6\u30b5\u30ae",
-      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
-    }
-  },
-  {
     "type": "Jewelry Store",
     "title": "Diamond Dreams",
     "notes": "The Diamond Dreams is a Jewelry Store located at Grapeseed.",
     "wiki_link": "https://youtu.be/UsiJCaJwzIo",
     "order": 0,
-    "strokecolor": "00d8ff",
-    "fillcolor": "00d8ff",
+    "strokecolor": "03fcc2",
+    "fillcolor": "03fcc2",
     "latlngarray": [
       {"lat": 60.938, "lng": 33.831},
 			{"lat": 60.976, "lng": 34.414},
@@ -296,21 +272,21 @@
     }
   },
   {
-		"type": "Shops",
-		"title": "BikeShop",
+		"type": "Bike Shop",
+		"title": "BikePit",
 		"notes": "BikePit is a Bike and Skateboard shop located in San Andreas Beach.",
 		"wiki_link": "https://youtu.be/",
 		"order": 0,
-		"strokecolor": "FFF900",
-    "fillcolor": "FFF900",
+		"strokecolor": "03b5fc",
+    "fillcolor": "03b5fc",
 		"latlngarray": [
-			{"lat": -71.411, "lng": -54.205},
-			{"lat": -71.457, "lng": -54.425},
-			{"lat": -71.523, "lng": -54.458},
-			{"lat": -71.565, "lng": -54.337},
-			{"lat": -71.575, "lng": -54.129},
-			{"lat": -71.523, "lng": -53.920},
-			{"lat": -71.436, "lng": -53.986}
+			{"lat": -71.418, "lng": -53.879},
+			{"lat": -71.411, "lng": -54.242},
+			{"lat": -71.499, "lng": -54.495},
+			{"lat": -71.624, "lng": -54.418},
+			{"lat": -71.665, "lng": -54.099},
+			{"lat": -71.631, "lng": -53.781},
+			{"lat": -71.523, "lng": -53.671}
 		]
 	},
   {

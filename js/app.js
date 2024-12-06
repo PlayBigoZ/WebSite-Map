@@ -148,12 +148,6 @@ $(function () {
       enabled: true,
     },
     {
-      name: "Arenas",
-      icon: "radar/radar_arenas.png",
-      type: "All Maps",
-      enabled: true,
-    },
-    {
       name: "Others",
       icon: "radar/radar_office_for_sale.png",
       type: "All Maps",

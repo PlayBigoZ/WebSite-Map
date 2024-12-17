@@ -275,7 +275,7 @@
 		"type": "Bike Shop",
 		"title": "BikePit",
 		"notes": "BikePit is a Bike and Skateboard shop located in San Andreas Beach.",
-		"wiki_link": "https://youtu.be/",
+		"wiki_link": "https://youtu.be/JtraGw4qc4M",
 		"order": 0,
 		"strokecolor": "03b5fc",
     "fillcolor": "03b5fc",
@@ -287,7 +287,12 @@
 			{"lat": -71.665, "lng": -54.099},
 			{"lat": -71.631, "lng": -53.781},
 			{"lat": -71.523, "lng": -53.671}
-		]
+		],
+    "video": {
+      "yt_id": "JtraGw4qc4M",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
 	},
   {
     "type": "Others",

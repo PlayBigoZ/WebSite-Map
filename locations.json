@@ -1,5 +1,30 @@
 [
   {
+		"type": "Hospital",
+		"title": "Mount Zonah Medical Center",
+		"notes": "An hospital located in Dorset Drive, Los Santos.",
+		"wiki_link": "https://youtu.be/qI-4SUHZIKc",
+		"order": 0,
+		"strokecolor": "03b5fc",
+		"fillcolor": "03b5fc",
+		"latlngarray": [
+			{"lat": -57.967, "lng": -30.839},
+			{"lat": -58.785, "lng": -30.136},
+			{"lat": -58.978, "lng": -27.390},
+			{"lat": -57.850, "lng": -27.016},
+			{"lat": -57.284, "lng": -27.895},
+			{"lat": -57.568, "lng": -28.950},
+			{"lat": -58.257, "lng": -28.335},
+			{"lat": -58.199, "lng": -28.862},
+			{"lat": -57.639, "lng": -29.345}
+		],
+    "video": {
+      "yt_id": "qI-4SUHZIKc",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+	},
+  {
     "type": "Mechanics",
     "title": "BayShore",
     "notes": "The BayShore map is a recommended workshop for all street racers.",
@@ -277,8 +302,8 @@
 		"notes": "BikePit is a Bike and Skateboard shop located in San Andreas Beach.",
 		"wiki_link": "https://youtu.be/JtraGw4qc4M",
 		"order": 0,
-		"strokecolor": "03b5fc",
-    "fillcolor": "03b5fc",
+		"strokecolor": "ffd966",
+    "fillcolor": "ffd966",
 		"latlngarray": [
 			{"lat": -71.418, "lng": -53.879},
 			{"lat": -71.411, "lng": -54.242},
@@ -290,6 +315,106 @@
 		],
     "video": {
       "yt_id": "JtraGw4qc4M",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+	},
+  {
+		"type": "Stores",
+		"title": "Store Location 1",
+		"notes": "A multi location store for those who want to sell their products.",
+		"wiki_link": "https://youtu.be/DXgbykHjXUc",
+		"order": 0,
+		"strokecolor": "c27ba0",
+		"fillcolor": "c27ba0",
+		"latlngarray": [
+			{"lat": -56.462, "lng": -10.671},
+			{"lat": -56.746, "lng": -10.902},
+			{"lat": -56.867, "lng": -10.342},
+			{"lat": -56.541, "lng": -10.111}
+		],
+    "video": {
+      "yt_id": "DXgbykHjXUc",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+	},
+  {
+		"type": "Stores",
+		"title": "Store Location 2",
+		"notes": "A multi location store for those who want to sell their products.",
+		"wiki_link": "https://youtu.be/DXgbykHjXUc",
+		"order": 0,
+		"strokecolor": "c27ba0",
+		"fillcolor": "c27ba0",
+		"latlngarray": [
+			{"lat": -71.247, "lng": -12.491},
+			{"lat": -71.303, "lng": -12.820},
+			{"lat": -71.444, "lng": -12.733},
+			{"lat": -71.395, "lng": -12.326}
+		],
+    "video": {
+      "yt_id": "DXgbykHjXUc",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+	},
+  {
+		"type": "Stores",
+		"title": "Store Location 3",
+		"notes": "A multi location store for those who want to sell their products.",
+		"wiki_link": "https://youtu.be/DXgbykHjXUc",
+		"order": 0,
+		"strokecolor": "c27ba0",
+		"fillcolor": "c27ba0",
+		"latlngarray": [
+			{"lat": -67.157, "lng": -31.758},
+			{"lat": -67.140, "lng": -32.109},
+			{"lat": -67.323, "lng": -32.131},
+			{"lat": -67.323, "lng": -31.725}
+		],
+    "video": {
+      "yt_id": "DXgbykHjXUc",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+	},
+  {
+		"type": "Stores",
+		"title": "Store Location 4",
+		"notes": "A multi location store for those who want to sell their products.",
+		"wiki_link": "https://youtu.be/DXgbykHjXUc",
+		"order": 0,
+		"strokecolor": "c27ba0",
+		"fillcolor": "c27ba0",
+		"latlngarray": [
+			{"lat": -66.817, "lng": -6.180},
+			{"lat": -67.024, "lng": -6.202},
+			{"lat": -67.032, "lng": -5.598},
+			{"lat": -66.826, "lng": -5.576}
+		],
+    "video": {
+      "yt_id": "DXgbykHjXUc",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+	},
+  {
+		"type": "Stores",
+		"title": "Store Location 5",
+		"notes": "A multi location store for those who want to sell their products.",
+		"wiki_link": "https://youtu.be/DXgbykHjXUc",
+		"order": 0,
+		"strokecolor": "c27ba0",
+		"fillcolor": "c27ba0",
+		"latlngarray": [
+			{"lat": -58.584, "lng": -54.389},
+			{"lat": -58.807, "lng": -54.081},
+			{"lat": -58.658, "lng": -53.565},
+			{"lat": -58.406, "lng": -53.839}
+		],
+    "video": {
+      "yt_id": "DXgbykHjXUc",
       "yt_user_display": "\u30a6\u30b5\u30ae",
       "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
     }

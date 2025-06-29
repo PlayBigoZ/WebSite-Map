@@ -106,6 +106,12 @@ $(function () {
 
   var categories = (window.cats = new CategoriesCollection([
     {
+      name: "Hospital",
+      icon: "radar/radar_hospital.png",
+      type: "All Maps",
+      enabled: true,
+    },
+    {
       name: "Mechanics",
       icon: "radar/radar_mechanic.png",
       type: "All Maps",
@@ -126,6 +132,12 @@ $(function () {
     {
       name: "Weed Shops",
       icon: "radar/radar_weedshop.png",
+      type: "All Maps",
+      enabled: true,
+    },
+    {
+      name: "Stores",
+      icon: "radar/radar_heist.png",
       type: "All Maps",
       enabled: true,
     },

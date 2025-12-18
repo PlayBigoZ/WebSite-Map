@@ -1,5 +1,25 @@
 [
   {
+		"type": "Mechanics",
+		"title": "NextRide",
+		"notes": "A MechShop that can also be used as as Used Cars Dealership",
+		"wiki_link": "https://youtu.be/KHRz1FYvjyw",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -70.190, "lng": -8.920},
+			{"lat": -70.018, "lng": -10.304},
+			{"lat": -69.814, "lng": -10.096},
+			{"lat": -69.692, "lng": -8.799}
+		],
+    "video": {
+      "yt_id": "KHRz1FYvjyw",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+	},
+  {
 		"type": "Hospital",
 		"title": "Mount Zonah Medical Center",
 		"notes": "An hospital located in Dorset Drive, Los Santos.",

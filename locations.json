@@ -1,5 +1,25 @@
 [
   {
+		"type": "Clubs",
+		"title": "Ballas Bar & Grille",
+		"notes": "An elegant bar & grille located in Ballas territory, featuring purple lighting, refined furnishings, and an exclusive atmosphere perfect for social gatherings and immersive roleplay.",
+		"wiki_link": "https://youtu.be/BEXItV_o7XI",
+		"order": 0,
+		"strokecolor": "8715F2",
+    "fillcolor": "8715F2",
+		"latlngarray": [
+			{"lat": -74.824, "lng": -15.391},
+			{"lat": -74.694, "lng": -15.017},
+			{"lat": -74.786, "lng": -14.578},
+			{"lat": -74.918, "lng": -14.984}
+		],
+    "video": {
+      "yt_id": "BEXItV_o7XI",
+      "yt_user_display": "\u30a6\u30b5\u30ae",
+      "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
+    }
+	},
+  {
 		"type": "Mechanics",
 		"title": "NextRide",
 		"notes": "A MechShop that can also be used as as Used Cars Dealership",

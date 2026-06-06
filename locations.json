@@ -251,9 +251,9 @@
   },
   {
     "type": "Weed Shops",
-    "title": "Puff Puff Pass",
+    "title": "Puff Puff Pass v2",
     "notes": "The Puff Puff Pass is the ideal map for those who want to manage a place that is different from the usual.",
-    "wiki_link": "https://youtu.be/mf4MBovGJKo",
+    "wiki_link": "https://youtu.be/w-SQ5LHECTo",
     "order": 0,
     "strokecolor": "0EFF00",
     "fillcolor": "0EFF00",
@@ -269,7 +269,7 @@
 			{"lat": -60.394, "lng": -59.611}
     ],
     "video": {
-      "yt_id": "mf4MBovGJKo",
+      "yt_id": "w-SQ5LHECTo",
       "yt_user_display": "\u30a6\u30b5\u30ae",
       "yt_user_link": "channel/UCz4mMI_65wG9g9oPn8TevNg"
     }
